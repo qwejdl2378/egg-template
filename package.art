@@ -1,0 +1,8 @@
+{
+  "name": "{{projectName}}",
+  "version": "{{version}}",
+  "main": "index.js",
+  "repository": "",
+  "author": "{{author}}",
+  "license": "MIT"
+}
